@@ -61,6 +61,8 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
+![image](https://github.com/user-attachments/assets/c8e3466f-ac5b-4588-94a1-4fb32c34b55c)
+
 ![image](https://github.com/user-attachments/assets/ab795b79-dac8-4cf0-8aac-02fd2c2eb0c3)
 
 # Results
