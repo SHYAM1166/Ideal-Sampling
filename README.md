@@ -1,14 +1,13 @@
 # Ideal-Sampling
 # Aim
-```
+
 The aim of this program is to demonstrate the concept of ideal sampling by discretizing a continuous signal at
 regular intervals. It visualizes both the continuous signal and its corresponding discrete samples to illustrate the sampling process in signal processing.
 
-```
 # Tools required
-```
+
 Python: A versatile programming language used for scientific computing and signal processing. NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations. Matplotlib: A plotting library for generating high-quality graphs and visualizations of data, essentialfor demonstrating the sampling process.
-```
+
 # Program
 ```
 import numpy as np
@@ -62,11 +61,9 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-```
 ![image](https://github.com/user-attachments/assets/ab795b79-dac8-4cf0-8aac-02fd2c2eb0c3)
 
-```
 # Results
-```
+
 The results show two plots: the first displays a continuous sine wave with a 5 Hz frequency. The second plot illustrates the ideal sampling of the sine wave, where the samples (red dots) are taken at regular intervals (100 Hz sampling rate). The ideal samples perfectly match the continuous signal, with no distortion or aliasing, as the sampling rate is sufficiently high.
-```
+
